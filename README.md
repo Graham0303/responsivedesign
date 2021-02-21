@@ -344,21 +344,21 @@ Publish the website in the given URL.
 
 ```
 ## OUTPUT:
-![output](./static/img/s1.PNG)
+![output](./static/img/s1.png)
 
-![output](./static/img/s2.PNG)
+![output](./static/img/s2.png)
 
-![output](./static/img/s4.PNG)
+![output](./static/img/s4.png)
 
-![output](./static/img/s5.PNG)
+![output](./static/img/s5.png)
 
 ## CODE VALIDATION REPORT:
-![output](./static/img/v1.PNG)
+![output](./static/img/v1.png)
 
-![output](./static/img/v2.PNG)
+![output](./static/img/v2.png)
 
-![output](./static/img/v3.PNG)
+![output](./static/img/v3.png)
 
-![output](./static/img/v4.PNG)
+![output](./static/img/v4.png)
 ## RESULT:
 Thus a responsive website with two breaks is designed for the chip manufacturing company and is hosted in the URL http://graham.student.saveetha.in:8000/responsivehome/ HTML code is validated.
